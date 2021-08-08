@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/128645144-9cc776a1-7729-47d7-964f-fb42163a4f42.png">
   <br />
   MXLinux Guide
 </h1>
@@ -7,6 +7,11 @@
 #### A guide on setting up your MXLinux Desktop with all the essential Applications, Tools, and Games to make your experience with MXLinux great! This may not be perfect guide for everyone but I feel there is at least one or more perfect solutions for New and Advanced MXLinux users.
 
 **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/128645145-4c8e393b-5f0c-49fc-ac94-44382dc856fc.png">
+  <br />
+</p>
 
 # Table of Contents
 
@@ -71,24 +76,21 @@
 
 [AntiX Forum](https://www.antixforum.com/)
 
-<h1 align="center">
- <img src="">
+<h3 align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/128645146-4dc5b7b6-4d97-4e2e-8728-37295339d269.png">
   <br />
   MXLinux Desktop
-</h1>
+</h3>
 
 
 ## Enable Firewall
 
 ```sh
-sudo ufw enable  //enables ubuntu firewall
+sudo ufw enable  //enables firewall
 sudo ufw status //checks status of firewall
 ```
 # Getting Software
 [Back to the Top](https://github.com/mikeroyal/MXLinux-Guide#table-of-contents)
-
-## Software Center
- <img src="https://user-images.githubusercontent.com/45159366/107094063-37582180-67bb-11eb-8fd8-a7eb1ca25e2c.png">
 
 **Note 1: All this software is also available in other popular Linux distributions such as [Debian](https://www.debian.org/), [Linux Mint](https://linuxmint.com/), [elementary OS](https://elementary.io/), [Pop!_OS](https://pop.system76.com/), [Fedora](https://getfedora.org), [Manjaro Linux](https://manjaro.org/), [EndeavourOS](https://endeavouros.com/) and [Arch Linux](https://archlinux.org/).**
 
